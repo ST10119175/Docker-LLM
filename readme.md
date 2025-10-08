@@ -38,6 +38,7 @@ This project showcases the development of a fully containerized AI chatbot that 
 
 ## 📸 Screenshot
 
+<img width="1907" height="866" alt="image" src="https://github.com/user-attachments/assets/5a486cc3-f5af-47db-b95a-f6327f31845b" />
 
 
 ## 🛠 Technical Stack
