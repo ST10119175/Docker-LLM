@@ -18,7 +18,6 @@ A production-ready, containerized chatbot application leveraging Docker Model Ru
 - [Project Structure](#project-structure)
 - [Technical Highlights](#technical-highlights)
 - [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
 
 ## 🎯 Overview
 
